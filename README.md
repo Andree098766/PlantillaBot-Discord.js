@@ -30,3 +30,6 @@ const { Client, MessageEmbed } = require("discord.js");
 
 Luego en index puedes editar el comando 'help' y el estado del bot, por default esta en "No molestar" y "Jugando Construyendome", puedes cambiar eso desde la linea 33 a la 36 del index.js 
 
+
+Spoiler alert: Este es un bot muy basico, pero servira si es tu primer bot
+
