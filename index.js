@@ -39,7 +39,7 @@ client.on('ready', ()  => {
     }
     presence()
   }, 1000)
-  console.log('Me quiero morir, pero estoy vivo')
+  console.log('Esto vivo!')
 });
 
 client.on('message', (message) => {
@@ -64,4 +64,4 @@ client.on('message', (message) => {
   }
 });
 
-client.login(process.env['token'])
+client.login(`TuToken`)
