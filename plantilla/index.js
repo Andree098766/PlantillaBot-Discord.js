@@ -64,4 +64,5 @@ client.on('message', (message) => {
   }
 });
 
+keepAlive()
 client.login(Tu token)
