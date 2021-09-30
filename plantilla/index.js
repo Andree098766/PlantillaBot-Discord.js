@@ -39,7 +39,7 @@ client.on('ready', ()  => {
     }
     presence()
   }, 1000)
-  console.log('Me quiero morir, pero estoy vivo')
+  console.log('Estoy listo!')
 });
 
 client.on('message', (message) => {
