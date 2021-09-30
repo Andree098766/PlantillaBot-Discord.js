@@ -2,7 +2,7 @@ const express = require('express');
 const server = express();
 
 server.all('/', (req, res) =>{
-  res.send('Aqui estamos Mr. Coding')
+  res.send('Aqui estamos')
 });
 
 function keepalive(){
